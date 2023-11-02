@@ -1,8 +1,8 @@
 /*
  * gApp.cpp
  *
- *  Created on: May 6, 2020
- *      Author: noyan
+ *  Created on: Nov 2, 2023
+ *      Author: erdemirbass
  */
 
 #include "gApp.h"
